@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -29,4 +28,4 @@
 - seaborn
 
 ## Contact
-Created by [@anupamjain16] - feel free to contact me!
+Created by [@anupamjain16] [@neelamtripathi] feel free to contact me!
